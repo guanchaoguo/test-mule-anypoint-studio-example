@@ -1,0 +1,21 @@
+{
+  "sampleData": {
+    "f93a652e-9ba4-4bc9-afb9-d4660b9fac7c": {
+      "vars-totalSeats": "sample_data/defaultstringtype.dwl",
+      "vars-takeOffDate": "sample_data/defaultstringtype_1.dwl",
+      "payload": "sample_data/list_java.dwl",
+      "vars-fromAirport": "sample_data/defaultstringtype_2.dwl",
+      "vars-planType": "sample_data/defaultstringtype_3.dwl",
+      "vars-code1": "sample_data/defaultstringtype_4.dwl",
+      "vars-toAirport": "sample_data/defaultstringtype_5.dwl",
+      "vars-seatsAvailable": "sample_data/defaultstringtype_6.dwl",
+      "vars-code2": "sample_data/defaultstringtype_7.dwl"
+    },
+    "5175cefa-2dd6-4f87-bf83-e2f992048cf6": {
+      "payload": "sample_data/list_java_1.dwl"
+    },
+    "1db0abb8-594f-4fe8-963c-655aba6b8d2f": {
+      "payload": "sample_data/americanflightsjson.dwl"
+    }
+  }
+}

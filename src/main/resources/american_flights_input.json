@@ -1,0 +1,28 @@
+[
+    {
+        "code2": "0001",
+        "takeOffDate": "2016/03/20",
+        "code1": "ER38sd",
+        "fromAirport": "MUA",
+        "price": 400.00,
+        "seatsAvailable": 0,
+        "toAirport": "SFO",
+        "ID": 1,
+        "airlineName": "rreee",
+        "planType": "Boeing 787",
+        "totalSeats": 0
+    },
+    {
+        "code2": "ER",
+        "takeOffDate": "2016/02/11",
+        "code1": "ER45if",
+        "fromAirport": "MUA",
+        "price": 345.99,
+        "seatsAvailable": 52,
+        "toAirport": "LAX",
+        "ID": 2,
+        "airlineName": "45if",
+        "planType": "Boeing 747",
+        "totalSeats": 532
+    }
+]
