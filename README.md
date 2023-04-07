@@ -2,4 +2,4 @@
 
 mule-runtime 4.4.0
 
-anything studio
+anything studio 7.14.0
